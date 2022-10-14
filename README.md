@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThEMiihay AK@Mișu
+- 👋 Hi, I’m @Mihai AK@Mișu
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML, CSS and JAVASCRIPT
 - 💞️ I’m looking to collaborate on ...
