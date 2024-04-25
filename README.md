@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Mihai AK@Mișu
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...email: smhad21@gmail.com or youtube: https://www.youtube.com/channel/UCmljbR3EbJgxYTLo-m4ZCxA
+- 🌱 I am passionate about tech
+
 
 <!---
 ThEMiihay/ThEMiihay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
