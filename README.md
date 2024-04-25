@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mihai AK@Mișu
 - 👀 I’m interested in web development
 - 🌱 I am passionate about tech
+- 🤦‍♂️ There are only two genders
 
 
 <!---
